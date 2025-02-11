@@ -1,4 +1,4 @@
-# Data Analyst Portfolio
+# Data Analytics Portfolio
 
 Hi! I'm Dyon Setio Utomo, a passionate Data Analyst & Business Intelligence with experience in Python, SQL, Power BI, Looker Studio and Excel. 
 This portfolio demonstrates in cleaning, analyzing and visualizing data to derive actionable insights. 
