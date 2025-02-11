@@ -30,6 +30,6 @@ The dataset that is used can be accessed at [Kaggle](https://www.kaggle.com/data
 
 ## Presentation
 For a more detailed discussion, please read my presentation (in Bahasa):
-[Presentasi](https://github.com/dyonsetio21/data_analytics_portfolio/edit/main/sql_projects/Data_Science_Salaries/Salary_Analysis_for_Data_Analyst_Positions.pdf) 
+[Presentasi](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/sql_projects/Data_Science_Salaries/Salary_Analysis_for_Data_Analyst_Positions.pdf) 
 
 ---
