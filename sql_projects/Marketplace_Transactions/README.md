@@ -5,7 +5,7 @@ This project is a Final Project in data analysis using SQL with Google BigQuery,
 Marketplace transaction data was analyzed to understand sales trends, product categories, and the most popular payment methods.
 
 ## Project Overview
-This project analyzes e-commerce transaction data using SQL to identify trends and key insights related to sales, product categories, payment methods, and top-selling brands. The dataset consists of interconnected tables:
+This project analyzes marketplace transaction data using SQL to identify trends and key insights related to sales, product categories, payment methods, and top-selling brands. The dataset consists of interconnected tables:
 - order_detail (transaction data)
 - customer_detail (customer data)
 - sku_detail (product data)
