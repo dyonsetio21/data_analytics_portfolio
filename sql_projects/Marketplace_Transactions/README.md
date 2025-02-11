@@ -44,4 +44,8 @@ MySkill provided the dataset used.
 For a more detailed discussion, please read my Medium article (in Bahasa):
 [Mengolah Data E-commerce Dengan SQL untuk Keputusan Bisnis yang Lebih Cerdas](https://medium.com/@dyonsetio/mengolah-data-e-commerce-dengan-sql-untuk-keputusan-bisnis-yang-lebih-cerdas-b5d18ce6d365)
 
+## Presentation
+For full details, check this presentation (in Bahasa):
+[Marketplace Transactions Analysis](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/sql_projects/Marketplace_Transactions/Marketplace_Transactions_Analysis.pdf)
+
 ---
