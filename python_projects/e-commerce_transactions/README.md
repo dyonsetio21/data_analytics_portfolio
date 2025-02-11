@@ -38,6 +38,6 @@ The dataset consists of:
 
 ## Presentation
 For more details, check this presentation (in Bahasa):
-[E-Commerce Transactions Analysis (Python)](https://medium.com/@dyonsetio/mengolah-data-e-commerce-dengan-sql-untuk-keputusan-bisnis-yang-lebih-cerdas-b5d18ce6d365)
+[E-Commerce Transactions Analysis (Python)](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/e-commerce_transactions/E-Commerce%20Transactions%20Analysis%20(Python).pdf)
 
 
