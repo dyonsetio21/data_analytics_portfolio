@@ -1,4 +1,4 @@
-# Marketplace Transactions Analysis (MySkill Final Poject)
+# Marketplace Transactions Analysis (MySkill Final Project)
 
 ## Description
 This project is a Final Project in data analysis using SQL with Google BigQuery, at MySkill Data Analysis Bootcamp. 
@@ -18,16 +18,20 @@ MySkill provided the dataset used.
 **Monthly Sales Trends (2021)**
 - August had the highest total sales, followed by December and October.
 - Monthly transactions varied significantly, with the highest month having nearly 5x the sales of the lowest month.
+
 **Top-Selling Product Categories (2022)**
 - *Mobiles & Tablets* contributed the highest revenue, indicating strong market demand for electronic devices.
+
 **Sales Comparison (2021 vs. 2022)**
 - The overall transaction value increased in 2022 compared to 2021.
 - Electronics and fashion categories were the key growth drivers.
 - However, categories like Books and Others experienced a decline in sales, requiring further analysis.
+
 **Top Payment Methods (2022)**
 - Despite the rise of digital payments, *Cash on Delivery (COD)* remained the most popular option.
 - Digital platforms like *Payaxis*, *Easypay*, and *Jazzwallet* showed increased usage.
 - Customer credit options provided flexibility to consumers.
+
 **Top-Selling Brands (2022)**
 - *Samsung* and *Apple* led the electronics sales market, followed by *Sony*, *Huawei*, and *Lenovo*.
 - Competition among top brands remains strong, with evolving market dynamics.
