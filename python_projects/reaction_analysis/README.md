@@ -27,9 +27,9 @@ The dataset used in this project:
 A few key graphics in this project:
 | Grafik | Description |
 |--------|----------|
-| ![chart1](images/Chart1.png) | Distribution of Reaction Types |
-| ![chart2](images/Chart2.png) | Trend of Daily Reactions |
-| ![chart3](images/Chart3.png) | Reaction Trend by Publication Hour |
+| ![chart1](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/reaction_analysis/images/chart1.png) | Distribution of Reaction Types |
+| ![chart2](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/reaction_analysis/images/chart2.png) | Trend of Daily Reactions |
+| ![chart3](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/reaction_analysis/images/chart3.png) | Reaction Trend by Publication Hour |
 
 ## Artikel Medium
 For a more detailed discussion, please see my Medium article (in Bahasa):
