@@ -32,7 +32,7 @@ A few key graphics in this project:
 | ![chart3](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/reaction_analysis/images/chart3.png) | Reaction Trend by Publication Hour |
 
 ## Artikel Medium
-For a more detailed discussion, please see my Medium article (in Bahasa):
+For a more detailed discussion, please see my Medium article (in Bahasa):  
 [Menganalisis Reaksi di Media Sosial: Menggali Wawasan dari Dataset](https://medium.com/@dyonsetio/menganalisis-reaksi-di-media-sosial-menggali-wawasan-dari-dataset-1b1349109f4a)
 
 ---
