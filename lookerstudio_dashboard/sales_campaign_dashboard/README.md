@@ -7,8 +7,8 @@ The dashboard provides insights into key metrics, including sales value, net pro
 The dataset consists of simulated Tokopedia transaction data.
 
 ## Dashboard Overview
-![Sales Campaign Dashboard 1](./images/call_center_dashboard.png)
-![Sales Campaign Dashboard 2](./images/call_center_dashboard.png)
+![Sales Campaign Dashboard 1](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/lookerstudio_dashboard/sales_campaign_dashboard/images/sales_campaign_dashboard_001.png)
+![Sales Campaign Dashboard 2](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/lookerstudio_dashboard/sales_campaign_dashboard/images/sales_campaign_dashboard_002.png)
 
 ## Key Insights:
 **1. Fluctuations in Sales, Profit, and AOV (2022)**
