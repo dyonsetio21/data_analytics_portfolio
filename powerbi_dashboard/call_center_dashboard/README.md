@@ -6,7 +6,7 @@ This project analyzes call center performance using Power BI, focusing on call h
 The dataset covers call activities from January to March 2021.
 
 ## Dashboard Overview
-![Call Center Dashoard](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/lookerstudio_dashboard/sales_campaign_dashboard/images/sales_campaign_dashboard_001.png)
+![Call Center Dashoard](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/powerbi_dashboard/call_center_dashboard/assets/Call%20Center%20Dashboard.png)
 
 ## Key Insights:
 - **Call Handling Efficiency**
