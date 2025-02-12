@@ -45,7 +45,10 @@ The dataset consists of simulated Tokopedia transaction data.
 
 ---
 
-Dashboard Link: 
+- Dashboard Link: 
 [SALES CAMPAIGN DASHBOARD](https://lookerstudio.google.com/s/m14EMZrp4gc)
-Presentation (in Bahasa):
+- Presentation (in Bahasa):
 [Sales Campaign Analysis – Data Visualization Project](https://lookerstudio.google.com/s/m14EMZrp4gc)
+
+---
+
