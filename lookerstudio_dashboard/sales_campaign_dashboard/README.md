@@ -4,7 +4,7 @@
 This project is one of a series of Final Projects at MySkill Data Analysis Bootcamp.
 This project visualizes e-commerce sales performance using Google Looker Studio. 
 The dashboard provides insights into key metrics, including sales value, net profit, average order value (AOV), product performance, and payment trends. 
-The dataset consists of simulated Tokopedia transaction data.
+The dataset consists of simulated Tokopedia (dummy) transaction data.
 
 ## Dashboard Overview
 ![Sales Campaign Dashboard 1](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/lookerstudio_dashboard/sales_campaign_dashboard/images/sales_campaign_dashboard_001.png)
