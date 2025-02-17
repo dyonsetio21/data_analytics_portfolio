@@ -3,7 +3,7 @@
 ## Description
 This task involves a virtual job simulation for Accenture's North America Data Analytics and Visualization role on Forage.
 This project aims to analyze user reactions on social media based on a dataset containing various reactions (like, love, haha, wow, sad, angry). 
-Using Python and several data analysis libraries, an exploration is done to look for trends in reactions and draw insights from the data.
+Exploration is done Using Python and several data analysis libraries to look for reaction trends and draw insights from the data.
 
 ## Dataset
 The dataset used in this project:
