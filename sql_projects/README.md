@@ -14,5 +14,9 @@ A collection of SQL-based projects focusing on data cleaning, processing, and an
 - **Tools:** Excel, BigQuery
 - **Link:** [Data Science Salaries Analysis](https://github.com/dyonsetio21/data_analytics_portfolio/tree/main/sql_projects/Data_Science_Salaries)  
 
+### **TechCorp SQL Analysis**
+*Analyzed the business performance of TechCorp, an e-commerce company specializing in electronic products.*
+- **Tools:** MySQL
+- **Link:** [TechCorp SQL Analysis](https://github.com/dyonsetio21/data_analytics_portfolio/tree/main/sql_projects/TechCorp_Analysis)
 ---
 **Each project includes a README with detailed explanations of the analysis.**  
