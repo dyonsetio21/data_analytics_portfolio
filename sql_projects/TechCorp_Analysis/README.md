@@ -1,4 +1,4 @@
-# TechCorp SQL Analysis
+# TechCorp Analysis
 
 ## Overview
 This project analyzes the business performance of **TechCorp**, an e-commerce company specializing in electronic products. 
