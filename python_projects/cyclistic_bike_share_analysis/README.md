@@ -53,9 +53,9 @@ A few key graphics in this project:
 | Graph | Description |
 |--------|----------|
 | ![chart1](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/cyclistic_bike_share_analysis/visualization_results/average_trip_duration_(minutes).png) | Average Trip Duration (Minutes) |
-| ![chart2](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/cyclistic_bike_share_analysis/visualization_results/monthly_ride_volume_trends_(casual_vs_member).png) | Monthly Ride Volume Trends (Casual vs Member) |
-| ![chart3](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/cyclistic_bike_share_analysis/visualization_results/number_of_rides_per_day_(casual_vs_member).png) | Number of Rides per Day (Casual vs Member) |
-| ![chart4](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/cyclistic_bike_share_analysis/visualization_results/types_of_bicycles_used.png) | Types of Bicycles Used |
+| ![chart2](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/cyclistic_bike_share_analysis/visualization_results/number_of_rides_per_day_(casual_vs_member).png) | Number of Rides per Day (Casual vs Member) |
+| ![chart3](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/cyclistic_bike_share_analysis/visualization_results/types_of_bicycles_used.png) | Types of Bicycles Used |
+| ![chart4](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/cyclistic_bike_share_analysis/visualization_results/monthly_ride_volume_trends_(casual_vs_member).png) | Monthly Ride Volume Trends (Casual vs Member) |
 
 ---
 
