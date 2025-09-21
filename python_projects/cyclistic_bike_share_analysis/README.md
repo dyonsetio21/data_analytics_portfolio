@@ -13,13 +13,12 @@ The goal of this analysis is to provide insights that will help Cyclistic's mark
 ## Tools Used
 - **Python (Pandas, Matplotlib, Seaborn)** for data cleaning, analysis, and visualization
 - **Google Colab** as the working environment
-- **GitHub** for project portfolio documentation
 
 ---
 
 ## Data Cleaning & Preparation
 Steps taken:
-1. Combined 12 CSV files (July 2020 – June 2021) into a single dataset
+1. Combined 12 CSV files (July 2020 – June 2021) into one dataset
 2. Converted datetime columns (`started_at`, `ended_at`)
 3. Created new columns:
    - `ride_length` (in minutes)
@@ -30,39 +29,20 @@ Final dataset: **4.37 million rides** after cleaning.
 
 ---
 
-## Key Findings
-1. **Trip Duration**
-   - Casual riders: average **33.6 minutes**
-   - Members: average **15 minutes**
-
-2. **Day of the Week**
-   - Casual riders ride mostly on **weekends (Saturday & Sunday)**
-   - Members ride mostly on **weekdays (Tuesday–Friday)**
-
-3. **Bike Type**
-   - Docked bikes are most used by both groups
-   - Casual riders prefer **electric bikes** more than members
-
-4. **Seasonality**
-   - Both groups ride more in **summer months**
-   - Casual ridership drops sharply in **winter**
-
----
-## Visualization Results
-A few key graphics in this project:
-| Graph | Description |
+## Key Findings & Visualization
+| Visualization | Insight |
 |--------|----------|
-| ![chart1](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/cyclistic_bike_share_analysis/visualization_results/average_trip_duration_(minutes).png) | Average Trip Duration (Minutes) |
-| ![chart2](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/cyclistic_bike_share_analysis/visualization_results/number_of_rides_per_day_(casual_vs_member).png) | Number of Rides per Day (Casual vs Member) |
-| ![chart3](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/cyclistic_bike_share_analysis/visualization_results/types_of_bicycles_used.png) | Types of Bicycles Used |
-| ![chart4](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/cyclistic_bike_share_analysis/visualization_results/monthly_ride_volume_trends_(casual_vs_member).png) | Monthly Ride Volume Trends (Casual vs Member) |
+| ![chart1](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/cyclistic_bike_share_analysis/visualization_results/average_trip_duration_(minutes).png) | **Casual riders ride longer** (avg. 33.6 mins) compared to members (15 mins). Indicates casual riders use bikes for leisure, while members use them for commuting. |
+| ![chart2](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/cyclistic_bike_share_analysis/visualization_results/number_of_rides_per_day_(casual_vs_member).png) | **Casual riders dominate on weekends**, while members are most active on weekdays. Suggests different purposes: leisure vs. commuting. |
+| ![chart3](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/cyclistic_bike_share_analysis/visualization_results/types_of_bicycles_used.png) | Both groups prefer docked bikes, but **casual riders use electric bikes more** than members. Highlights different preferences in bike type. |
+| ![chart4](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/cyclistic_bike_share_analysis/visualization_results/monthly_ride_volume_trends_(casual_vs_member).png) | Usage peaks during summer months (Jun–Aug) and drops sharply in winter, especially among casual riders. Shows strong seasonal behavior. |
 
 ---
 
 ## Recommendations
-1. **Weekend promotions** targeting casual riders (e.g., weekend pass → membership conversion)  
-2. **Highlight membership value** for long-duration riders (cost savings vs single pass)  
-3. **Seasonal summer campaigns** to maximize conversion when casual usage peaks  
+1. **Weekend promotions** → Target casual riders with weekend membership trials or discounts, since they are most active on Saturdays and Sundays.
+2. **Highlight membership value** → Emphasize cost benefits for long-duration riders, showing that membership is cheaper than repeated single passes.
+3. **Seasonal summer campaigns** → Emphasize cost benefits for long-duration riders, showing that membership is cheaper than repeated single passes.
 
 ---
 
