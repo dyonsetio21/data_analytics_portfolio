@@ -15,16 +15,16 @@ Here, I explore **deeper analytical perspectives** to better understand user beh
 
 ## Advanced Analyses  
 
-### Hourly Ride Trends  
-![Hourly Trend](images/hourly_trend.png)  
+### 1. Hourly Ride Trends  
+![Hourly Trend](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/cyclistic_bike_share_analysis/cyclistic_bike_share_analysis_advanced/visualization_results/Hourly%20Ride%20Counts%20by%20User%20Type.png) 
 **Insight:**  
 - Members have two clear peaks: **07–09 AM** and **16–18 PM**, showing commuting behavior.  
 - Casual riders peak in the afternoon (around **17–18 PM**) — more for leisure or recreation.  
 
 ---
 
-### 📅 Weekday vs Weekend Patterns  
-![Weekday vs Weekend]([images/weekday_weekend.png](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/cyclistic_bike_share_analysis/cyclistic_bike_share_analysis_advanced/visualization_results/Hourly%20Ride%20Counts%20by%20User%20Type.png))  
+### 2. Weekday vs Weekend Patterns  
+![Weekday vs Weekend](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/cyclistic_bike_share_analysis/cyclistic_bike_share_analysis_advanced/visualization_results/Hourly%20Ride%20Counts%20by%20User%20Type.png)
 **Insight:**  
 - **Members** dominate weekday usage (commuting).  
 - **Casual riders** dominate weekends (leisure).  
@@ -32,8 +32,8 @@ Here, I explore **deeper analytical perspectives** to better understand user beh
 
 ---
 
-### 📍 Top Start Stations  
-![Top Start Stations]([images/top_stations.png](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/cyclistic_bike_share_analysis/cyclistic_bike_share_analysis_advanced/visualization_results/Top%2020%20Start%20Stations%20(approx.%20locations).png))  
+### 3. Top Start Stations  
+![Top Start Stations](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/cyclistic_bike_share_analysis/cyclistic_bike_share_analysis_advanced/visualization_results/Top%2020%20Start%20Stations%20(approx.%20locations).png)
 **Insight:**  
 - Casual riders: prefer **tourist & waterfront areas** (e.g., Streeter Dr, Millennium Park).  
 - Members: frequent **downtown & office areas**.  
@@ -41,8 +41,8 @@ Here, I explore **deeper analytical perspectives** to better understand user beh
 
 ---
 
-### ⏱️ Ride Length Distribution  
-![Ride Length Distribution]([images/ride_length_distribution.png](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/cyclistic_bike_share_analysis/cyclistic_bike_share_analysis_advanced/visualization_results/Ride%20length%20distribution%20Weekday%20vs%20Weekend%20(no%20extreme%20outliers).png))  
+### 4. Ride Length Distribution  
+![Ride Length Distribution](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/cyclistic_bike_share_analysis/cyclistic_bike_share_analysis_advanced/visualization_results/Ride%20length%20distribution%20Weekday%20vs%20Weekend%20(no%20extreme%20outliers).png)  
 **Insight:**  
 - Average ride: **Casual = 33.6 min**, **Members = 15.0 min**.  
 - Casual riders tend to ride longer and for leisure.  
@@ -50,15 +50,15 @@ Here, I explore **deeper analytical perspectives** to better understand user beh
 
 ---
 
-### 📈 Monthly Usage Trends (2020–2021)  
-![Monthly Trends]([images/monthly_trend.png](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/cyclistic_bike_share_analysis/cyclistic_bike_share_analysis_advanced/visualization_results/Month-over-month%20%25%20change%20in%20ride%20counts.png))  
+### 5. Monthly Usage Trends (2020–2021)  
+![Monthly Trends](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/cyclistic_bike_share_analysis/cyclistic_bike_share_analysis_advanced/visualization_results/Month-over-month%20%25%20change%20in%20ride%20counts.png) 
 **Insight:**  
 - Strong seasonality — **peak in summer, drop in winter.**  
 - Suggestion: run campaigns or renewals during summer months to boost engagement.  
 
 ---
 
-### 💰 Revenue Scenario Simulation  
+### 6. Revenue Scenario Simulation  
 **Assumptions:**  
 - Casual ride = \$3 per ride  
 - Membership = \$99/year  
@@ -76,8 +76,8 @@ Short-term revenue may drop after conversion, but **membership provides long-ter
 
 ---
 
-### 🔁 Top Station Flows  
-![Station Flows]([images/station_flow.png](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/cyclistic_bike_share_analysis/cyclistic_bike_share_analysis_advanced/visualization_results/Top%2020%20Origin%20-%20Destination%20flows.png))  
+### 7. Top Station Flows  
+![Station Flows](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/cyclistic_bike_share_analysis/cyclistic_bike_share_analysis_advanced/visualization_results/Top%2020%20Origin%20-%20Destination%20flows.png) 
 **Insight:**  
 - Many rides start & end at the **same station** → loop rides = leisure pattern.  
 - Suggestion: add *“Popular Scenic Routes”* or *recommended ride paths* in the app.  
