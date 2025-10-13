@@ -34,6 +34,7 @@ Here, I explore **deeper analytical perspectives** to better understand user beh
 
 ### 3. Top Start Stations  
 ![Top Start Stations](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/python_projects/cyclistic_bike_share_analysis/cyclistic_bike_share_analysis_advanced/visualization_results/Top%2020%20Start%20Stations%20(approx.%20locations).png)
+
 **Insight:**  
 - Casual riders: prefer **tourist & waterfront areas** (e.g., Streeter Dr, Millennium Park).  
 - Members: frequent **downtown & office areas**.  
