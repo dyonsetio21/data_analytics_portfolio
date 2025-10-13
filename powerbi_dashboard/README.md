@@ -4,6 +4,7 @@ A collection of interactive dashboards built using **Power BI** to generate data
 ## Project List
 ### **Call Center Dashboard**
 *Analyze call center trends based on key performance indicators (KPIs).*
+![Dashboard Screenshot](https://github.com/dyonsetio21/data_analytics_portfolio/blob/main/powerbi_dashboard/call_center_dashboard/images/Call%20Center%20Dashboard.png)  
 - **Link:** [Call Center Dashboard](https://github.com/dyonsetio21/data_analytics_portfolio/tree/main/lookerstudio_dashboard/sales_campaign_dashboard)
 
 ---
