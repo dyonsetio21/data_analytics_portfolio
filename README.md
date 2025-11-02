@@ -7,7 +7,8 @@ This repository contains my work in **SQL, Python, Power BI, and Looker Studio**
 - **[SQL Projects](https://github.com/dyonsetio21/data_analytics_portfolio/tree/main/sql_projects)** – Querying, data cleaning, and analysis  
 - **[Python Projects](https://github.com/dyonsetio21/data_analytics_portfolio/tree/main/python_projects)** – Exploratory Data Analysis (EDA), data cleaning, and advanced analysis  
 - **[Power BI Dashboards](https://github.com/dyonsetio21/data_analytics_portfolio/tree/main/powerbi_dashboard)** – Interactive business intelligence dashboards  
-- **[Looker Studio Reports](https://github.com/dyonsetio21/data_analytics_portfolio/tree/main/lookerstudio_dashboard)** – Google Looker Studio dashboards  
+- **[Looker Studio Dashboard](https://github.com/dyonsetio21/data_analytics_portfolio/tree/main/lookerstudio_dashboard)** – Google Looker Studio dashboards
+- **[Tableau_Dashboard](https://github.com/dyonsetio21/data_analytics_portfolio/tree/main/tableau_dashboard)** – Tableau dashboards  
 
 ## Featured Work  
 ### 1. Call Center Performance Dashboard (Power BI)  
