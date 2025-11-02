@@ -21,10 +21,6 @@ It provides insights into ride volume, duration trends, and usage behavior acros
   - Popular stations are concentrated around tourist and downtown areas.
   - Casual riders dominate usage at lakeside and recreational spots.
 
-**4. Weekday vs Weekend Patterns**
-  - Members ride more frequently on weekdays, reflecting commute habits.
-  - Casual riders are more active during weekends and holidays.
-
 ## Business Recommendations:
 **1. Target Marketing for Casual Riders**
   - Offer seasonal promotions or discounts to encourage casual users to subscribe as members.
